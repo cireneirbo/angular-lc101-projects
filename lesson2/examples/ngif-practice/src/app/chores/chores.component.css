@@ -6,7 +6,7 @@
     color: #3c79b8;
 }
 
-h3 {
+h3, h1 {
     text-align: center;
 }
 
@@ -15,4 +15,9 @@ img {
     height: auto;
     display: block;
     margin: auto;
+}
+
+p {
+    color: darkgreen;
+    text-align: center;
 }
